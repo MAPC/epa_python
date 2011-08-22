@@ -7,9 +7,17 @@ website.
 Documentation for the APIs can be found here: 
 [http://www.epa.gov/enviro/facts/ef_restful.html](http://www.epa.gov/enviro/facts/ef_restful.html)
 
+### Installation
+
+Clone and update all dependencies in this repository:
+
+    $ git clone https://github.com/codeforamerica/epa_python.git
+    $ git submodule update --init --recursive
 
 APIs
 ----
+
+$ git submodule update --init --recursive
 
 ### RADInfo
 
